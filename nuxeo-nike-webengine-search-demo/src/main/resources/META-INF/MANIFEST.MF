@@ -1,0 +1,10 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Name: nuxeo-nike-webengine-search-demo
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: Nuxeo
+Bundle-Version: 5.9.6.qualifier
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: nuxeo-nike-webengine-search-demo
+Nuxeo-WebModule: org.nuxeo.ecm.webengine.app.WebEngineModule;name=search;extends=base;package=org/nuxeo/nike/webengine

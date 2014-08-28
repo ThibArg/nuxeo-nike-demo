@@ -1,0 +1,8 @@
+<component name="org.nuxeo.nike.AggregateValuesInBlobOp">
+
+  <extension target="org.nuxeo.ecm.core.operation.OperationServiceComponent"
+    point="operations" >
+      <operation class="org.nuxeo.nike.AggregateValuesInBlobOp" />
+   </extension>
+    
+</component>
